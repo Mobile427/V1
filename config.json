@@ -77,5 +77,6 @@
                 {"type":1, "url": "https://sunny9577.github.io/proxy-scraper/proxies.txt",  "timeout": 5}
                 {"type":1, "url": "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/http.txt",  "timeout": 5}
                 {"type":1, "url": "https://raw.githubusercontent.com/RX4096/proxy-list/main/archive/all.txt",  "timeout": 5}
+                {"type":1, "url": "https://raw.githubusercontent.com/fate0/proxylist/master/proxy.list",  "timeout": 5}
 	]
 }
